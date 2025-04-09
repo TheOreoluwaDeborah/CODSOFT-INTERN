@@ -46,13 +46,19 @@ Five Mobile App Screens designed in Figma:
 
 > Designs are available in the `task-1-vaultpay-design/` folder.
 
+## Figma Design
+[Click here to view the design file] (https://www.figma.com/design/N8mioqqMCJqLCEueY9tEqj/COD-SOFT?node-id=0-1&t=myrK03zRYIlSGvec-1)
+
+## Prototype Preview
+[Click here to view the prototype] (https://www.figma.com/proto/N8mioqqMCJqLCEueY9tEqj/COD-SOFT?node-id=61-541&t=gRRDZrSAizriwJGT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=56%3A393)
+
 ---
 
 ## Status
 
 - [x] Task Completed  
-- [ ] Linked Prototype  
-- [ ] Responsive Versions  
+- [x] Linked Prototype  
+- [x] Responsive Versions  
 
 ---
 
